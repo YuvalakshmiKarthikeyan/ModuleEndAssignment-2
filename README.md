@@ -34,10 +34,13 @@
 ● Violin plot - Plotted Weekday vs Weekend Sales
 ● Heatmap - Plotted Sales Correlation Heatmap with Quantity', 'UnitPrice', 'TotalPrice
 ● Pair plot - Plotted with Corr of Sales
+
 # Task 8 – Business Insights
 ● Identify:
 ○ Top country - Country - United Kingdom
+
 ○ Best sales month - 11    1156205.61
+
 ○ Peak sales time - Hour- 12    1373695.39
 ● Analyze:
 ○ Customer behavior - CustomerID
@@ -46,6 +49,7 @@
 14096.0    5111
 12748.0    4412
 14606.0    2677
+
 used Invoiceno to check how many times sales happened from that customer
 ○ High-value customers
 CustomerID
@@ -59,6 +63,7 @@ CustomerID
 17511.0     91062.38
 16029.0     80850.84
 12346.0     77183.60
+
 ○ Top products
 Description
 PAPER CRAFT , LITTLE BIRDIE           80995
